@@ -1,0 +1,28 @@
+_repo: The-Whispering-Spheres_22226
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Winterbotham, R. R. (Russell Robert)
+    alias: Winterbotham, Russell Robert
+    birthdate: 1904
+    deathdate: 1971
+    gutenberg_agent_id: '25195'
+    url: http://www.gutenberg.org/2009/agents/25195
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22226'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Whispering Spheres
+url: http://www.gutenberg.org/ebooks/22226
